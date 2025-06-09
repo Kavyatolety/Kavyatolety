@@ -1,4 +1,4 @@
-## <h1> Hello there 👋 </h1>
+## <h2> Hello, World </h2>
 
 <!--
 **Kavyatolety/Kavyatolety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  I'm Kavya (26 y.o) 👽
+  I'm Kavya (26 y.o) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
   🚀 Ex-BI Analyst turned Code Alchemist, currently crafting full-stack magic with React, Next.js, and Python
   
