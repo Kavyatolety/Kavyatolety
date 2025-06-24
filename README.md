@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   🧠 Obsessed with clean code, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
   
-  📊 CS whisperer by background, data engineer by evolution
+  📊 Research Analyst whisperer by background, Data and AI engineer by evolution
   
   🔍 Currently debugging life and building scalable stuff on the side
   
