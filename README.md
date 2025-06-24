@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   🧠 Obsessed with clean code, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
   
-  📊 Data whisperer by background, software engineer by evolution
+  📊 CS whisperer by background, data engineer by evolution
   
   🔍 Currently debugging life and building scalable stuff on the side
   
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![next.js](https://img.shields.io/badge/next.js-blue?style=flat&logo=nextdotjs&logoColor=%23000000&logoSize=auto)
 ![tailwind css](https://img.shields.io/badge/tailwind%20CSS-red?style=flat&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto)
 ![Vite](https://img.shields.io/badge/Vite-yellow?style=flat&logo=vite&logoColor=%23646CFF&logoSize=auto)
-
+![databricks](https://img.shields.io/badge/databricks-yellow?logo=databricks)
 <h2>⚡️ Where to find me</h2>
 
 <p>
