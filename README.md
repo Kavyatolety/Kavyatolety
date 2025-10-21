@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   I'm Kavya (26 y.o) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
-  🚀 Software Associate, currently crafting full-stack magic with React, Next.js, and Python
+  🚀 A passionate AI, Data and Machine Learning Engineer that helps Business make Intelligent Decisions
   
   🧠 Obsessed with clean code, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
   
