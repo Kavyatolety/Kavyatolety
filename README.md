@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   🚀 A Software Engineer based in Washington DC. I ship code, that solves data problems sustainably! 🍃
   
-  🧠 Obsessed with clean code, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
+  🧠 Obsessed with clean programs, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
   
   🔍 Currently debugging life and building scalable stuff on the side
   
