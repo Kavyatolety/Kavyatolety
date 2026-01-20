@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   I'm Kavya (26 y.o) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
-  🚀 A Software Engineer based in Washington DC. I care about sustainable engineering practices & aim to solve problems efficiently 🌱🌍💚 
+  🚀 A Software Engineer based in Washington DC. I care about implementing sustainable engineering practices 🌱🌍💚 
   
   🧠 Obsessed with clean programs, clever queries, and cloud-native solutions (shoutout to AWS, you the real MVP)
   
