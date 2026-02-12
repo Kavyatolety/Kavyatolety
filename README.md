@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  I'm Kavya (26 y.o) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  I'm Kavya (27 y.o) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
   🚀 A Software Engineer based in Washington DC. I care about implementing sustainable engineering practices 🌱🌍💚 
   
